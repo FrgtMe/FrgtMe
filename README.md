@@ -11,3 +11,6 @@ Thank you for any help you have done or will do.</br>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BirBeyfendi&theme=chartreuse-dark&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BirBeyfendi&layout=compact&langs_count=8&theme=cobalt"/>
 </p>
+
+
+![snake gif](https://github.com/BirBeyfendi/BirBeyfendi/blob/output/github-contribution-grid-snake.svg)
