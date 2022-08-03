@@ -1,3 +1,11 @@
+<br>👋 Hello!</br>
+<br>🤠 My Name Is Polat.</br>
+<br>🐍 My goal is to be able to progress in the Python programming language.</br>
+<br>👨‍💻 I have a lot more to learn. Dart programming language is one of them.</br>
+<br>🤗 I would gladly accept your help.
+Thank you for any help you have done or will do.</br>
+<br>My stats are as follows:</br>
+
 
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BirBeyfendi&theme=chartreuse-dark&show_icons=true&count_private=true)"/>
