@@ -1,7 +1,6 @@
 <br>👋 Hello!</br>
 <br>🤠 My name is Polat.</br>
 <br>🐍 My goal is to be able to progress in the Python programming language.</br>
-<br>👨‍💻 I have a lot more to learn. Dart programming language is one of them.</br>
 <br>🤗 I would gladly accept your help.
 Thank you for any help you have done or will do.</br>
 <br>My stats are as follows:</br>
